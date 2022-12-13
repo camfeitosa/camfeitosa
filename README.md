@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6348a3&size=35&center=true&vCenter=true&width=1000&lines=Olá!!!+Meu+nome+é+Camila+Feitosa;+:%29)](https://git.io/typing-svg)
 
-<div>
+<div align="center">
   <a href="https://github.com/camfeitosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camfeitosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
