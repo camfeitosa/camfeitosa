@@ -14,8 +14,6 @@
  <a href = "mailto:camilafeitosacoutinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-
-
 <!-- <p align="center">
   <a href="https://instagram.com/camfeitosa">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -28,11 +26,11 @@
   </a>
 </p> -->
 
-
+<br>
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,php,trello" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,php" />
   </a>
 </p>
 
