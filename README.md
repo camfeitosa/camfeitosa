@@ -2,7 +2,7 @@
 
 #
 
-<img align="right" alt="" height="220px" src="Animation.gif">
+<img align="right" alt="" height="230px" src="Animation.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4000&pause=1000&color=B59DFF&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Camila+Feitosa!)](https://git.io/typing-svg)
 
