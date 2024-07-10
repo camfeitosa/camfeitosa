@@ -18,9 +18,7 @@ Tive meu primeiro contato com a programação através do Técnico de Informáti
 
 ### Skills
 <a href="https://skillicons.dev">
-  <img width="28%" src="https://skillicons.dev/icons?i=js,html,css,sass,php,python" />
-  <img width="18%" src="https://skillicons.dev/icons?i=react,nodejs,mysql" />
-  <img width="25%" src="https://skillicons.dev/icons?i=git,github,azure,figma,npm" />
+  <img width="70%" src="https://skillicons.dev/icons?i=js,html,css,sass,php,python,react,nodejs,mysql,git,github,azure,figma,npm" />
 </a>
 
 <!--
@@ -29,6 +27,7 @@ Tive meu primeiro contato com a programação através do Técnico de Informáti
 <img width="20%" src="https://skillicons.dev/icons?i=react,nodejs,mysql,sass" />
 <img width="20%" src="https://skillicons.dev/icons?i=git,github,azure,figma,npm" />
 -->
+#
 
 <div align="center">
  
