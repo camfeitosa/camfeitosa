@@ -16,22 +16,12 @@ Tive meu primeiro contato com a programação através do Técnico de Informáti
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=6900FF&color:FFF)](https://www.linkedin.com/in/camfeitosa)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=6900FF&color:FFF)](https://instagram.com/camfeitosa)
 
-### Languages and Technologies
+### Skills
 <a href="https://skillicons.dev">
   <img width="28%" src="https://skillicons.dev/icons?i=js,html,css,sass,php,python" />
-</a>
-
-### Frameworks and Libraries
-<a href="https://skillicons.dev">
   <img width="18%" src="https://skillicons.dev/icons?i=react,nodejs,mysql" />
-</a>
-
-### Tools and Platforms
-<a href="https://skillicons.dev">
   <img width="25%" src="https://skillicons.dev/icons?i=git,github,azure,figma,npm" />
 </a>
-
-# 
 
 <!--
 <h3 align="left">My Stack</h3>
