@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=4000&pause=4000&color=B59DFF&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Camila+Feitosa!)](https://git.io/typing-svg)
 
-<p align="left" >Sou desenvolvedora Front-End, atualmente estou cursando bacharelado em Engenharia de Software na instituição de ensino FIAP!
+<p align="left" >Olá, atualmente estou cursando bacharelado em Engenharia de Software na instituição de ensino FIAP!
 Tive meu primeiro contato com a programação através do Técnico de Informática para Internet na Etec Anhanguera, no qual estudei sobre lógica de programação, banco de dados, desenvolvimento web e aprendi algumas linguagens e ferramentas como: PHP, Mysql, HTML, CSS, Wordpress, Bootstrap. </p>
 
 
