@@ -32,7 +32,7 @@ Tive meu primeiro contato com a programação através do Técnico de Informáti
 <div align="center">
  
 ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camfeitosa&show_icons=true&theme=midnight-purple)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&layout=compact&langs_count=7&theme=midnight-purple"/>
+<!--<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&layout=compact&langs_count=7&theme=midnight-purple"/>-->
 
 </div>
 
