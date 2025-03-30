@@ -21,32 +21,34 @@ Tive meu primeiro contato com a programação através do Técnico de Informáti
   <img width="70%" src="https://skillicons.dev/icons?i=js,html,css,sass,php,python,react,nodejs,mysql,git,github,azure,figma,npm" />
 </a>
 
-<!--
-<h3 align="left">My Stack</h3>
-<img width="20%" src="https://skillicons.dev/icons?i=js,html,css,php,python" />
-<img width="20%" src="https://skillicons.dev/icons?i=react,nodejs,mysql,sass" />
-<img width="20%" src="https://skillicons.dev/icons?i=git,github,azure,figma,npm" />
--->
-#
+## Stats
 
-<div align="center">
+<div align="center" >
  
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camfeitosa&show_icons=true&theme=midnight-purple)
-<!--<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&layout=compact&langs_count=7&theme=midnight-purple"/>-->
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camfeitosa&show_icons=true&theme=calm&title_color=7A7ADB&icon_color=D3D3D3)
+
+<!-- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&layout=compact&langs_count=7&theme=midnight-purple"/> -->
 
 </div>
 
 <!--
- <img src="https://github-readme-stats.vercel.app/api?username=camfeitosa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="camfeitosa's Github Stats">
--->
+<img src="https://github-readme-stats.vercel.app/api?username=camfeitosa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="camfeitosa's Github Stats">-->
 
-<!--
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camfeitosa/camfeitosa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camfeitosa/camfeitosa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/camfeitosa/camfeitosa/output/github-snake.svg" />
 </picture>
+
 <br><br>
 
-#
-![Snake animation](https://github.com/camfeitosa/camfeitosa/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/camfeitosa/camfeitosa/blob/output/github-snake-dark.svg)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=camfeitosa&show_icons=true&theme=calm&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=camfeitosa&theme=calm&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
+
+
+[![](https://visitcount.itsvg.in/api?id=camfeitosa&icon=2&color=2)](https://visitcount.itsvg.in) -->
