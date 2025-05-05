@@ -28,7 +28,7 @@ Tive meu primeiro contato com a programação através do Técnico de Informáti
 
 <div align="center" >
  
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camfeitosa&show_icons=true&theme=calm&title_color=7A7ADB&icon_color=D3D3D3)
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camfeitosa&show_icons=true&theme=calm&title_color=7A7ADB&icon_color=D3D3D&include_all_commits=true&count_private=true&rank_icon=github)
 
 <!-- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&layout=compact&langs_count=7&theme=midnight-purple"/> -->
 
