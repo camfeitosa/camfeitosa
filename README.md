@@ -3,7 +3,7 @@
 ![cover](https://github.com/user-attachments/assets/6fd4135f-d503-408a-a6aa-1399324caf83)
 
 
-<img align="right" width="500px" alt="" height="230px" src="Animation.gif"> 
+<img align="right" width="300px" alt="" height="230px" src="Animation.gif"> 
 
 
 
