@@ -30,12 +30,23 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=30&duration=0.1&pause=1000&color=B59DFF&center=false&repeat=false&width=435&lines=Experience)](https://git.io/typing-svg)
 
 <div align="left" width=200>
+<img align="left" height="94px" width="94px" alt="Nerdmonster" src="https://avatars.githubusercontent.com/u/4257275?s=200&v=4" />
+
+**Software Engineer** \
+**Nubank** • Intern 
+<!-- Languages & Technologies: `Clojure`, `Node.js`, `Laravel`, `JavaScript`, `MySQL`, `Next.js`, `MongoDB`\ -->
+Jan 2026 | Currently
+<br/>
+<br />
+</div>
+
+<div align="left" width=200>
 <img align="left" height="94px" width="94px" alt="Nerdmonster" src="https://avatars.githubusercontent.com/u/105817547?s=200&v=4" />
 
 **Software Developer** \
 **NerdMonster Digital Retail** • Intern \
 Languages & Technologies: `PHP`, `Node.js`, `Laravel`, `JavaScript`, `MySQL`, `Next.js`, `MongoDB`\
-Jan 2025 | Currently
+Jan 2025 | Dec 2025
 <br/>
 <br />
 </div>
@@ -45,12 +56,18 @@ Jan 2025 | Currently
 [![Stats](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=30&duration=0.1&pause=1000&color=B59DFF&center=false&repeat=false&width=435&lines=GitHub+Stats)](https://git.io/typing-svg)
 
 <div align="center">
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=camfeitosa&theme=midnight-purple&show_icons=true&hide_border=true&rank_icon=github) -->
 
- <img height=400 align="center"  src="https://github-readme-stats.vercel.app/api?username=camfeitosa&bg_color=0,000000,130F40&hide_border=true&text_color=D3D3D3&show_icons=true&title_color=7A7ADB&icon_color=D3D3D&include_all_commits=true&count_private=true&rank_icon=github" />
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&layout=compact&theme=midnight-purple&hide_border=true) -->
  
 
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&layout=compact&langs_count=7&text_color=D3D3D3&title_color=7A7ADB&bg_color=130F40&hide_border=true"/> 
+
+<img height=400 align="center"  src="https://github-readme-stats.vercel.app/api?username=camfeitosa&bg_color=0,000000,130F40&hide_border=true&text_color=D3D3D3&show_icons=true&title_color=7A7ADB&icon_color=D3D3D&include_all_commits=true&count_private=true&rank_icon=github" /> 
+
+ <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camfeitosa&layout=compact&langs_count=7&text_color=D3D3D3&title_color=7A7ADB&bg_color=130F40&hide_border=true"/>
+ 
 
 <!-- <img align="center" src="https://nirzak-streak-stats.vercel.app?user=camfeitosa&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" /> -->
 
